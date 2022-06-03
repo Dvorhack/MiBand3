@@ -1,23 +1,16 @@
-# MiBand3
-Library to work with Xiaomi MiBand 3
+# I hacked MiBand 3, and here is how I did it
 
-Base lib provided by Leo Soares
-Additional debug & fixes was made by Volodymyr Shymanskyy
+Detailed Writeup on how to use this Library
+
+[I hacked MiBand 3, and here is how I did it. Part I](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
+
+[I hacked MiBand 3, and here is how I did it Part II — Reverse Engineering to upload Firmware and Resources Over the Air](https://medium.com/@yogeshojha/i-hacked-miband-3-and-here-is-how-i-did-it-part-ii-reverse-engineering-to-upload-firmware-and-b28a05dfc308)
 
 # Run
 
 ### Install dependencies
 
-
-
 `pip install -r requirements.txt`
-
-### Using python 3
-
-If you're having python 3.x just use following codes to automatically convert files:
-
-`2to3 -w main.py`
-`2to3 -w auth.py`
 
 ### Connection to MiBand
 
